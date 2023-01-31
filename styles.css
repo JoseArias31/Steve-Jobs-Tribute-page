@@ -1,0 +1,62 @@
+#image {
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+        }
+  #img-div {
+    background-color: #839fa6;
+    padding-bottom: 0;
+      
+  }
+  
+  main {
+    background-color: #f7f7f7;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    text-align: center;
+  }
+  #img-caption {
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+    margin: 0;
+    padding: 10px;
+    font-size: 18px;
+   }
+  
+  .steve {
+     font-size: 39px;
+   }
+  .CEO {
+    font-size: 20px;
+  }
+  
+  body {
+    margin: 0;
+    display: block;
+    background-color: #f5f5f5
+  }
+  
+  .inventions {
+  margin: 0 10px;
+  margin-right: 30px;
+  text-align: justify;
+  }
+  
+  h2 {
+    text-align: center;
+    margin: 50px 0;
+  }
+  
+  footer {
+    text-align: center;
+    font-size: 20px;
+  }
+  
+  #image-caption #img-div {
+    color: #000;
+  }
